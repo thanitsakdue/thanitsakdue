@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&width=435&lines=Hi%F0%9F%91%8B;I'm+Thanitsak+Due)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&width=435&lines=Hi%2C+I'm+Thanitsak+Sakulrutsameehirun!+%F0%9F%91%8B;You+can+call+me+Due)](https://git.io/typing-svg)
 ###
 
-<p align="left">My name is Thanitsak Sakulrutsameehirun, a third-year scholar at KMUTNB University studying Computer Science. I have a strong passion for Machine Learning, and I’m always eager to explore new techniques and applications in this field.<br><br>💻 I’m currently working on projects that involve data analysis and machine learning, with a focus on building efficient models and creating impactful solutions. I also love working on projects related to AI, data science, and automation.<br><br>🌱 In addition to my coursework, I actively engage in side projects that allow me to apply and grow my skills, such as predictive modeling, classification algorithms, and neural networ</p>
+<p align="left">My name is Due, a third-year scholar at KMUTNB University studying Computer Science. I have a strong passion for Machine Learning, and I’m always eager to explore new techniques and applications in this field.<br><br>💻 I’m currently working on projects that involve data analysis and machine learning, with a focus on building efficient models and creating impactful solutions. I also love working on projects related to AI, data science, and automation.<br><br>🌱 In addition to my coursework, I actively engage in side projects that allow me to apply and grow my skills, such as predictive modeling, classification algorithms, and neural networ</p>
 
 ###
 
