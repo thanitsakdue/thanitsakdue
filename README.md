@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&width=435&lines=Hi%F0%9F%91%8B;I'm+Thanitsak+Due)](https://git.io/typing-svg)
 
 ###
 
@@ -41,3 +41,9 @@
 </div>
 
 ###
+# My github stat:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanitsakdue&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thanitsakdue&icon=0&color=0)](https://visitcount.itsvg.in)
+  
