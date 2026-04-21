@@ -1,7 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&width=435&lines=Hi%2C+I'm+Thanitsak+Sakulrutsameehirun!+%F0%9F%91%8B;You+can+call+me+Due)](https://git.io/typing-svg)
 ###
 
-<p align="left">My name is Due, a third-year scholar at KMUTNB University studying Computer Science. I have a strong passion for Machine Learning, and I’m always eager to explore new techniques and applications in this field.<br><br>💻 I’m currently working on projects that involve data analysis and machine learning, with a focus on building efficient models and creating impactful solutions. I also love working on projects related to AI, data science, and automation.<br><br>🌱 In addition to my coursework, I actively engage in side projects that allow me to apply and grow my skills, such as predictive modeling, classification algorithms, and neural networ</p>
+<p align="left">
+<strong>Hi, I’m Due.</strong> I am a Computer Science graduate from <strong>KMUTNB</strong> (2nd Class Honors, GPAX 3.44) with a deep-rooted passion for Machine Learning and Full-Stack Development.
+
+
+
+💻 <strong>What I do:</strong> I specialize in building efficient models and creating impactful, data-driven solutions. My expertise spans data analysis, predictive modeling, and automation, with a focus on bridging the gap between complex AI algorithms and user-centric applications.
+
+
+
+🌱 <strong>My Focus:</strong> Having recently completed my degree, I am actively applying my skills in neural networks, classification algorithms, and Generative AI to real-world projects. I thrive on solving technical challenges and staying at the forefront of AI innovation.
+
+
+
+🚀 <strong>Current Goal:</strong> Leveraging my background in full-stack engineering and machine learning to develop scalable, intelligent systems that drive meaningful change.
+</p>
 
 ###
 
